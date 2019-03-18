@@ -1,0 +1,25 @@
+{
+  "name": "grunt-demo",
+  "version": "1.0.0",
+  "description": "grunt练习",
+  "main": "rectangle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JIZHAOPING/grunt-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JIZHAOPING/grunt-practice/issues"
+  },
+  "homepage": "https://github.com/JIZHAOPING/grunt-practice#readme",
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-mocha": "^1.2.0",
+    "mocha": "^6.0.2"
+  }
+}
